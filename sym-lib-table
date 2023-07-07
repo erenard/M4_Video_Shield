@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VLSI_VS23")(type "KiCad")(uri "${KIPRJMOD}/VLSI_VS23.kicad_sym")(options "")(descr ""))
+)
