@@ -1935,7 +1935,7 @@
     (property "Value" "4.433618MHz" (at 198.12 38.1 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 198.12 41.91 0)
+    (property "Footprint" "Crystal:Resonator-2Pin_W8.0mm_H3.5mm" (at 198.12 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 198.12 41.91 0)
